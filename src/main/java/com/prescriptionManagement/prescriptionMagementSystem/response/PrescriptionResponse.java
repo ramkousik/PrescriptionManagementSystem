@@ -3,7 +3,7 @@ package com.prescriptionManagement.prescriptionMagementSystem.response;
 import lombok.Data;
 
 @Data
-public class Response {
+public class PrescriptionResponse {
     private Long id;
     private String pName;
     private String tabletName;

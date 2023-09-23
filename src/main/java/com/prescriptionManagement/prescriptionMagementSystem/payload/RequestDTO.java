@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class PrescriptionDTO {
+public class RequestDTO {
 
     @NotEmpty(message = "Please enter the Patient name")
     private String pName;
