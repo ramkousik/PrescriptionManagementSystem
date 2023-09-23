@@ -1,0 +1,2 @@
+package com.prescriptionManagement.prescriptionMagementSystem.exceptions;public class PrescriptionNotFoundException {
+}
